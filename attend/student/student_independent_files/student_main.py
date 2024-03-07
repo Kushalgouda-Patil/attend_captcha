@@ -11,7 +11,7 @@ def main(usn,dd,mm,yyyy):
     options = webdriver.ChromeOptions()
     headers = {
     "Host": "student.kletech.ac.in",
-    "User-Agent": "PostmanRuntime/7.362",
+    "User-Agent": "PostmanRuntime/7.36.3",
     "Accept": "*/*",
     "Accept-Encoding": "gzip, deflate, br",
     "Connection": "keep-alive"
