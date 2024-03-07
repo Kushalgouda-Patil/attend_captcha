@@ -1,0 +1,11 @@
+[49961:49961:0307/224310.150346:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 122.0.6261.69 (not a warning)
+[49961:49961:0307/224310.179843:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping mandatory platform policies because no policy file was found at: /etc/opt/chrome/policies/managed
+[49961:49961:0307/224310.179869:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping recommended platform policies because no policy file was found at: /etc/opt/chrome/policies/recommended
+[49961:49961:0307/224310.266594:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[49961:49961:0307/224310.266713:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[49961:49961:0307/224310.399169:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[49961:49961:0307/224310.680305:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+[50002:50002:0307/224310.911815:WARNING:sandbox_linux.cc(418)] InitializeSandbox() called with multiple threads in process gpu-process.
+[50002:50002:0307/224324.483558:ERROR:shared_image_manager.cc(221)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[50004:50022:0307/224324.528411:WARNING:sqlite_persistent_store_backend_base.cc(197)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[49961:49961:0307/224324.551897:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

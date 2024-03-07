@@ -1,0 +1,10 @@
+2024/03/07-22:43:52.651 c5a4 Creating DB /home/kushal/Desktop/attend_captcha/attend/student/student_independent_files/Host: student.kletech.ac.in
+User-Agent: PostmanRuntime/7.36.3.4
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive/Default/shared_proto_db since it was missing.
+2024/03/07-22:43:52.676 c5a4 Reusing MANIFEST /home/kushal/Desktop/attend_captcha/attend/student/student_independent_files/Host: student.kletech.ac.in
+User-Agent: PostmanRuntime/7.36.3.4
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive/Default/shared_proto_db/MANIFEST-000001

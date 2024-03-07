@@ -1,0 +1,9 @@
+[61533:61533:0307/230310.014455:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 122.0.6261.69 (not a warning)
+[61533:61533:0307/230310.045696:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping mandatory platform policies because no policy file was found at: /etc/opt/chrome/policies/managed
+[61533:61533:0307/230310.045723:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping recommended platform policies because no policy file was found at: /etc/opt/chrome/policies/recommended
+[61533:61533:0307/230310.064455:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[61533:61533:0307/230310.065794:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[61533:61533:0307/230310.138427:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[61573:61573:0307/230310.589712:WARNING:sandbox_linux.cc(418)] InitializeSandbox() called with multiple threads in process gpu-process.
+[61608:7:0307/230310.595023:ERROR:command_buffer_proxy_impl.cc(131)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[61533:61533:0307/230317.919069:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

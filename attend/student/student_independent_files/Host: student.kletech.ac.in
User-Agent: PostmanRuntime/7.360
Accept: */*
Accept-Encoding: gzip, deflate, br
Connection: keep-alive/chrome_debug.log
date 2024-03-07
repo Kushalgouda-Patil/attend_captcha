@@ -1,0 +1,9 @@
+[53356:53356:0307/224654.946082:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 122.0.6261.69 (not a warning)
+[53356:53356:0307/224654.982822:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping mandatory platform policies because no policy file was found at: /etc/opt/chrome/policies/managed
+[53356:53356:0307/224654.982875:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping recommended platform policies because no policy file was found at: /etc/opt/chrome/policies/recommended
+[53356:53356:0307/224655.081642:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[53356:53356:0307/224655.081696:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[53356:53356:0307/224655.241119:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[53356:53356:0307/224655.533138:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+[53398:53398:0307/224655.741824:WARNING:sandbox_linux.cc(418)] InitializeSandbox() called with multiple threads in process gpu-process.
+[53356:53356:0307/224701.916308:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
