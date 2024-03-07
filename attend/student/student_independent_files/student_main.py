@@ -11,7 +11,7 @@ def main(usn,dd,mm,yyyy):
     options = webdriver.ChromeOptions()
     headers = {
     "Host": "student.kletech.ac.in",
-    "User-Agent": "PostmanRuntime/7.36.3",
+    "User-Agent": "PostmanRuntime/7.46.3",
     "Accept": "*/*",
     "Accept-Encoding": "gzip, deflate, br",
     "Connection": "keep-alive"
@@ -30,7 +30,9 @@ def main(usn,dd,mm,yyyy):
         # driver = webdriver.Chrome()
         url="https://student.kletech.ac.in/"
         driver.get(url)
+        soup=BeautifulSoup(driver.page_source,features="html.parser")
         print("driver got url")
+        print(soup)
         iframe_id = "ifrm"
         wait = WebDriverWait(driver, 10)
         iframe = wait.until(EC.frame_to_be_available_and_switch_to_it((By.ID, iframe_id)))
